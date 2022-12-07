@@ -23,4 +23,4 @@ An open-source, free eBook &amp; Comic/Manga reader for Android.
 - Enhanced Text-to-Speech support
 
 ## License
-This software is under GPLv3. For more information, refer to the [LICENSE](https://github.com/manast95/JettReader_v2/blob/main/LICENSE) file.
+This software is under GPLv3. For more information, refer to the [LICENSE](https://github.com/manast95/JettReader_v2/blob/master/LICENSE) file.
