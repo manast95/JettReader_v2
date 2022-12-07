@@ -2,7 +2,7 @@
 An open-source, free eBook &amp; Comic/Manga reader for Android.
 
 ## Features
-- Support for a vast array of formats: PDF, EPUB, MOBI, CBZ, CBR, TXT, AZW3, FB2 etc.
+- Support for a vast array of formats: PDF, EPUB, MOBI, CBZ, CBR, TXT, AZW3, FB2, DJVU etc.
 - A reader that can be configured to run in a variety of modes.
 - Different reading orientations (Horizontal & Vertical Scroll)
 - Support for Light & Dark Theme.
