@@ -22,11 +22,11 @@ An open-source, free eBook &amp; Comic/Manga reader for Android.
 ## License
 This software is under GPLv3. For more information, refer to the [LICENSE](https://github.com/manast95/JettReader_v2/blob/master/LICENSE) file.
 
-##Standing on the shoulders on giants, we are thankful to the following projects:
+## Standing on the shoulders on giants, we are thankful to the following projects:
 - FBReader
 - Pdfium
 - Djvulibre
 - K2PdfOpt
 - and many, many more...
 
-##Remember, all the best things in this world are free!
+## Remember, all the best things in this world are free!
